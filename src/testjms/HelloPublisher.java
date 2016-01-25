@@ -23,7 +23,7 @@ public class HelloPublisher {
 	public HelloPublisher(String factoryJNDI, String topicJNDI)
 
 	throws JMSException, NamingException {
-	   //test
+	   //test1
 		Hashtable props = new Hashtable();
 
 		props.put(Context.INITIAL_CONTEXT_FACTORY,
